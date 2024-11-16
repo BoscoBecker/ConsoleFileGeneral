@@ -26,7 +26,7 @@ namespace ConsoleFileGeneral {
             }
             finally {
                  Console.WriteLine();
-                 Console.WriteLine("Processo realizado com sucesso!");
+                 Console.WriteLine("Process done with success!");
             }
         }    
    }
